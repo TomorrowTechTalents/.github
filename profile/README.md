@@ -3,6 +3,10 @@
 
 #### listas de exercícios
 
+Voce também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/listasdeexercicios).
+
+Se encontrar algum problema, por favor entre em contato (por exemplo, abra uma issue neste repositório).
+
 - [1ª lista de exercícios](https://github.com/TomorrowTechTalents/listas_de_exercicios/tree/development/src/lista_de_exercícios01)
 
 - [2ª lista de exercícios](https://github.com/TomorrowTechTalents/listas_de_exercicios/tree/development/src/lista_de_exercícios02)
