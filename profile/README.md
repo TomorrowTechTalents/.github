@@ -17,6 +17,8 @@ Se encontrar algum problema, por favor entre em contato (por exemplo, abra uma i
 
 - [5ª lista de exercícios](https://github.com/TomorrowTechTalents/listas_de_exercicios/tree/development/src/lista_de_exercícios05)
 
+- [6ª lista de exercícios](https://github.com/TomorrowTechTalents/listas_de_exercicios/tree/development/src/lista_de_exercícios06)
+
 <!--
 
 **Here are some ideas to get you started:**
