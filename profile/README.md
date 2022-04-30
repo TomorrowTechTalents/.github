@@ -1,4 +1,7 @@
 ## Tomorrow Tech Talents - CI&T - Let's Code
+
+<img width="300px" align="right" src="https://raw.githubusercontent.com/TomorrowTechTalents/.github/development/Duke_(Java_mascot)_waving.svg"/>
+
 ### Marcos Torres
 
 #### listas de exercícios
