@@ -4,11 +4,19 @@
 
 ### Marcos Torres
 
-#### listas de exercícios
-
-Voce também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/listasdeexercicios).
+Voce também pode executar todos (por enquanto apenas os do módulo 1) os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/listasdeexercicios).
 
 Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
+
+---
+
+### módulo 2 - professores Rodolfo Lima e João Nunes
+
+- [1ª lista de exercícios](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/lista_de_exercícios1)
+
+---
+
+### módulo 1 - professores Hugo Brendow e Rodolfo Lima
 
 - [1ª lista de exercícios](https://github.com/TomorrowTechTalents/listas_de_exercicios/tree/development/src/lista_de_exercícios01)
 
