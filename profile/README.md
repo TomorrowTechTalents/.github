@@ -12,7 +12,10 @@ Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
 
 ### módulo 2 - professores Rodolfo Lima e João Nunes
 
-- [1ª lista de exercícios](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/lista_de_exercícios1)
+- [exercício 0](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise00.java)
+- [exercício 1](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise01.java)
+- [exercício 2](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise02.java)
+
 
 ---
 
