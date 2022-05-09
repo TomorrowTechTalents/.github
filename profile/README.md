@@ -13,8 +13,8 @@ Voce também pode executar todos os códigos diretamente no seu navegador, sem i
 
 - [exercício 0](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise00.java)
 - [exercício 1](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise01.java)
-- [exercício 2 using List\<E\>](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise02List.java)
-- [exercício 2 using Set\<E\>](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise02Set.java)
+- [exercício 2 usando List\<E\>](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise02List.java)
+- [exercício 2 usando Set\<E\>](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise02Set.java)
 
 ---
 
