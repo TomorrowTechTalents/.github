@@ -11,10 +11,11 @@
 Voce também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/module2). Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
 
 
-- [exercício 0](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise00.java)
-- [exercício 1](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise01.java)
-- [exercício 2 usando List\<E\>](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise02List.java)
-- [exercício 2 usando Set\<E\>](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise02Set.java)
+- [exercício 0](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise00)
+- [exercício 1](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise01)
+- [exercício 2 usando List\<E\>](https://github.com/TomorrowTechTalents/modulo2/blob/development/src/Exercise02/Exercise02List.java)
+- [exercício 2 usando Set\<E\>](https://github.com/TomorrowTechTalents/modulo2/blob/development/src/Exercise02/Exercise02Set.java)
+- [exercício 3](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/exercise03)
 
 ---
 
