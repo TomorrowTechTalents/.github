@@ -6,6 +6,12 @@
 
 ---
 
+### módulo 3 - professores João Nunes,  Rodolfo Lima, Paulo Stradioti
+
+[exercício 1](https://github.com/TomorrowTechTalents/module3/tree/development/src/exercise01) - calculadora
+
+---
+
 ### módulo 2 - professores Rodolfo Lima e João Nunes
 
 Voce também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/module2). Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
