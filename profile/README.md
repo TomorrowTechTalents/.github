@@ -14,8 +14,9 @@
 
 ### módulo 2 - professores Rodolfo Lima e João Nunes
 
-Voce também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/module2). Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
-
+> **Note**
+> 
+> Voce também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/module2). Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
 
 - [exercício 0](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise00) - funcionário
 - [exercício 1](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise01) - jogador
@@ -28,7 +29,9 @@ Voce também pode executar todos os códigos diretamente no seu navegador, sem i
 
 ### módulo 1 - professores Hugo Brendow e Rodolfo Lima
 
-Voce também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/module1). Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
+> **Note**
+> 
+> Voce também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/module1). Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
 
 - [1ª lista de exercícios](https://github.com/TomorrowTechTalents/listas_de_exercicios/tree/development/src/lista_de_exercícios01)
 
