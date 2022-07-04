@@ -4,6 +4,13 @@
 
 ### Marcos Torres
 
+### módulo 4 - professores Jorge dos Santos, Jonathan Jorge, Rafael Rocha
+
+- [exercício inicial sobre streams](https://github.com/TomorrowTechTalents/module4/tree/development/src/streams) - estudantes e notas
+- [exercício sobre operações terminais de streams](https://github.com/TomorrowTechTalents/module4/tree/development/src/cryptosimulator) - criptomoedas
+- [exercício sobre o método Streams#collect](https://github.com/TomorrowTechTalents/module4/tree/development/src/collector) - estudantes pelo comprimento do nome
+- [exercício sobre expressões regulares](https://github.com/TomorrowTechTalents/module4/tree/development/src/regularexpressions)
+
 ---
 
 ### módulo 3 - professores João Nunes,  Rodolfo Lima, Paulo Stradioti
