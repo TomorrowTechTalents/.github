@@ -4,18 +4,37 @@
 
 ### Marcos Torres
 
+###  módulo 5 - Programação Web II
+<details>
+<summary>professores Hugo Brendow, Rafael Rocha, Jackson</summary>
+
+
+placeholder
+
+</details>
+
+---
+
 ### módulo 4 - professores Jorge dos Santos, Jonathan Jorge, Rafael Rocha
+<details>
 
 - [exercício inicial sobre streams](https://github.com/TomorrowTechTalents/module4/tree/development/src/streams) - estudantes e notas
 - [exercício sobre operações terminais de streams](https://github.com/TomorrowTechTalents/module4/tree/development/src/cryptosimulator) - criptomoedas
 - [exercício sobre o método Streams#collect](https://github.com/TomorrowTechTalents/module4/tree/development/src/collector) - estudantes pelo comprimento do nome
 - [exercício sobre expressões regulares](https://github.com/TomorrowTechTalents/module4/tree/development/src/regularexpressions)
 
+</details>
+
 ---
 
 ### módulo 3 - professores João Nunes,  Rodolfo Lima, Paulo Stradioti
 
+<details>
+<summary></summary>
+
 [exercício 1](https://github.com/TomorrowTechTalents/module3/tree/development/src/exercise01) - calculadora
+
+</details>
 
 ---
 
