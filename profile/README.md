@@ -6,7 +6,7 @@
 
 ###  módulo 5 - Programação Web II
 <details>
-<summary>professores Hugo Brendow, Rafael Rocha, Jackson</summary>
+<summary>professores Hugo Brendow, Rafael Rocha, Jackson Braga</summary>
 
 
 placeholder
