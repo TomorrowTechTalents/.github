@@ -1,22 +1,22 @@
-## Tomorrow Tech Talents - CI&T - Let's Code
+# Marcos Torres
 
 <img width="300px" align="right" src="https://raw.githubusercontent.com/TomorrowTechTalents/.github/development/Duke_(Java_mascot)_waving.svg"/>
 
-### Marcos Torres
+### Repositórios com exercícios do programa Tomorrow Tech Talents da Let's Code em parceria com a CI&T.
 
 ###  módulo 5 - Programação Web II
 <details>
-<summary>professores Hugo Brendow, Rafael Rocha, Jackson Braga</summary>
 
-
-placeholder
+#### professores Hugo Brendow, Rafael Rocha, Jackson Braga
 
 </details>
 
 ---
 
-### módulo 4 - professores Jorge dos Santos, Jonathan Jorge, Rafael Rocha
+### módulo 4 - Técnicas de Programação
 <details>
+
+#### professores Jorge dos Santos, Jonathan Jorge, Rafael Rocha
 
 - [exercício inicial sobre streams](https://github.com/TomorrowTechTalents/module4/tree/development/src/streams) - estudantes e notas
 - [exercício sobre operações terminais de streams](https://github.com/TomorrowTechTalents/module4/tree/development/src/cryptosimulator) - criptomoedas
@@ -27,10 +27,10 @@ placeholder
 
 ---
 
-### módulo 3 - professores João Nunes,  Rodolfo Lima, Paulo Stradioti
-
+### módulo 3 - Programação Orientada a Objetos II
 <details>
-<summary></summary>
+
+#### professores João Nunes,  Rodolfo Lima, Paulo Stradioti
 
 [exercício 1](https://github.com/TomorrowTechTalents/module3/tree/development/src/exercise01) - calculadora
 
@@ -38,11 +38,15 @@ placeholder
 
 ---
 
-### módulo 2 - professores Rodolfo Lima e João Nunes
+### módulo 2 - Programação Orientada a Objetos I
+
+<details>
+
+#### professores Rodolfo Lima e João Nunes
 
 > **Note**
 > 
-> Voce também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/module2). Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
+> Você também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/module2). Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
 
 - [exercício 0](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise00) - funcionário
 - [exercício 1](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/Exercise01) - jogador
@@ -51,13 +55,18 @@ placeholder
 - [exercício 3](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/exercise03) - escola
 - [exercício 4](https://github.com/TomorrowTechTalents/modulo2/tree/development/src/exercise04) - inimigos
 
+</details>
+
 ---
 
-### módulo 1 - professores Hugo Brendow e Rodolfo Lima
+### módulo 1 - Lógica de Programação
+<details>
+
+#### professores Hugo Brendow e Rodolfo Lima
 
 > **Note**
 > 
-> Voce também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/module1). Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
+> Você também pode executar todos os códigos diretamente no seu navegador, sem instalar nada! Basta [clicar aqui](https://replit.com/@MarcosTorres7/module1). Se encontrar algum problema, por favor entre em contato pelo meio que preferir.
 
 - [1ª lista de exercícios](https://github.com/TomorrowTechTalents/listas_de_exercicios/tree/development/src/lista_de_exercícios01)
 
@@ -70,6 +79,8 @@ placeholder
 - [5ª lista de exercícios](https://github.com/TomorrowTechTalents/listas_de_exercicios/tree/development/src/lista_de_exercícios05)
 
 - [6ª lista de exercícios](https://github.com/TomorrowTechTalents/listas_de_exercicios/tree/development/src/lista_de_exercícios06)
+
+</details>
 
 <!--
 
