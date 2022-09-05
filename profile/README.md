@@ -4,6 +4,28 @@
 
 ### Repositórios com exercícios do programa Tomorrow Tech Talents da Let's Code em parceria com a CI&T.
 
+###  módulo 7 - Testes Automatizados
+<details>
+
+#### professores Alan Santos, Pedro, Alex
+
+- [exercício sobre o framework de testes Selenium](https://github.com/TomorrowTechTalents/module7_Selenium)
+
+
+
+</details>
+
+---
+
+###  módulo 6 - Arquitetura de Software, e Ágil I
+<details>
+
+#### professores Rafael Rocha, Hugo Brendow
+
+</details>
+
+---
+
 ###  módulo 5 - Programação Web II
 <details>
 
